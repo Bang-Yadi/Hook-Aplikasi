@@ -9,6 +9,7 @@ html {
 body {
   background: url(./assets/images/bg-image.jpg) no-repeat center center fixed;
   background-size: cover;
+  padding: 5px;
 }
 
 main {
@@ -67,6 +68,7 @@ ul > li {
 
 ul > li:hover {
   transform: scale(1.1);
+  background-color: #00FFF3;
 }
 
 ul > li > a {
